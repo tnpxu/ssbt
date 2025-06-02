@@ -28,7 +28,7 @@ The project will follow [Semantic Versioning (SemVer)](https://semver.org/). Key
 * **`v0.3.0` (Beta) ✨:** Add multi-cloud support (Azure, GCP), advanced Spark Structured Streaming features, and operational improvements like data quality checks.
 * **`v1.0.0` (Stable) 🏆:** Focus on production readiness, API stability, comprehensive documentation, and performance optimizations.
 
-> For a detailed breakdown of features and timelines, please see the full [**PROJECT_ROADMAP.md**](PROJECT_ROADMAP.md) (You would typically link to the full roadmap document - `project_roadmap_spark_integration`).
+> For a detailed breakdown of features and timelines, please see the full [**PROJECT_ROADMAP.md**](docs/PROJECT_ROADMAP.md) (You would typically link to the full roadmap document).
 
 ## 🚀 Getting Started
 
